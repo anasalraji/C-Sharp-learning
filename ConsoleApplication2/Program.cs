@@ -11,9 +11,9 @@ namespace ConsoleApplication2
         static void Main(string[] args)
         {
 
-            int @myValue;
+            int MyValue =7;
 
-            Console.Write("{0}", _@myValue);
+            Console.Write("{0}", MyValue);
         }
     }
 }
